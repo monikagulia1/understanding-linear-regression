@@ -56,22 +56,6 @@ The notebook is designed as a practical guide to help you understand and impleme
 
 This notebook serves as a comprehensive resource for anyone looking to understand linear regression in depth. By comparing statistical and machine learning approaches, it highlights the importance of thorough data exploration, effective feature engineering, and careful model evaluation in predictive analytics.
 
-## How to Use This Notebook
-
-1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/yourusername/linear-regression-notebook.git
-   ```
-2. **Install Dependencies:**  
-   Ensure you have Python installed along with the necessary libraries:
-   ```bash
-   pip install pandas scikit-learn matplotlib seaborn
-   ```
-3. **Run the Notebook:**  
-   Open the notebook using Jupyter or any compatible IDE:
-   ```bash
-   jupyter notebook Linear_Regression_Analysis.ipynb
-   ```
 
 ## Dependencies
 
